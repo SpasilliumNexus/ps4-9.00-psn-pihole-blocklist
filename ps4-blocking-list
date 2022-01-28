@@ -58,6 +58,7 @@
 0.0.0.0	image-ps4.api.playstation.com
 0.0.0.0	image.api.np.km.playstation.net
 0.0.0.0	image.api.playstation.com
+0.0.0.0	manuals.playstation.net
 0.0.0.0	mediation.api.playstation.com
 0.0.0.0	nsx.sec.np.dl.playstation.net
 0.0.0.0	occ-0-472-465.1.nflxso.net
@@ -65,6 +66,7 @@
 0.0.0.0	oqesn.np.dl.playstation.net
 0.0.0.0	party.rnps.dl.playstation.net
 0.0.0.0	playstation.sony.akadns.net
+0.0.0.0	polyfill.io
 0.0.0.0	post.net.playstation.net
 0.0.0.0	ps4-eb.ww.np.dl.playstation.net
 0.0.0.0	ps4-system.sec.np.dl.playstation.net
@@ -80,7 +82,8 @@
 0.0.0.0	sf.api.np.km.playstation.net
 0.0.0.0	smetrics.aem.playstation.com
 0.0.0.0	sn.api.np.km.playstation.net
-0.0.0.0	sony-monaco.prod.partner.netflix.net	
+0.0.0.0	sony-monaco.prod.partner.netflix.net
+0.0.0.0	ssl.google-analytics.com
 0.0.0.0	static-resource.np.community.playstation.net
 0.0.0.0	status.playstation.com
 0.0.0.0	t-prof.np.community.playstation.net
