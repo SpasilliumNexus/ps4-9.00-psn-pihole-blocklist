@@ -42,7 +42,6 @@
 0.0.0.0	fuk01.ps4.update.playstation.net
 0.0.0.0	fus01.ps4.update.playstation.net
 0.0.0.0	get.net.playstation.net
-0.0.0.0	gmedia.playstation.com
 0.0.0.0	gs-sec.ww.np.dl.playstation.net
 0.0.0.0	gs2.ww.prod.dl.playstation.net
 0.0.0.0	hau01.ps4.update.playstation.net
@@ -58,7 +57,6 @@
 0.0.0.0	htw01.ps4.update.playstation.net
 0.0.0.0	huk01.ps4.update.playstation.net
 0.0.0.0	hus01.ps4.update.playstation.net
-0.0.0.0	id.sonyentertainmentnetwork.com
 0.0.0.0	image-ps4.api.playstation.com
 0.0.0.0	image.api.np.km.playstation.net
 0.0.0.0	image.api.playstation.com
@@ -84,12 +82,8 @@
 0.0.0.0	sbahn-publish.api.playstation.com
 0.0.0.0	secure.cdn.us.playstation.com
 0.0.0.0	sf.api.np.km.playstation.net
-0.0.0.0	smetrics.aem.playstation.com
 0.0.0.0	sn.api.np.km.playstation.net
-0.0.0.0	sne.demdex.net
-0.0.0.0	social.playstation.com
 0.0.0.0	sony-monaco.prod.partner.netflix.net
-0.0.0.0	sonynetworkentertain.tt.omtrdc.net
 0.0.0.0	ssl.google-analytics.com
 0.0.0.0	static-resource.np.community.playstation.net
 0.0.0.0	status.playstation.com
@@ -102,5 +96,3 @@
 0.0.0.0	us.np.stun.playstation.net
 0.0.0.0	video.api.playstation.com
 0.0.0.0	video.dl.playstation.net
-0.0.0.0	web-toolbar.playstation.com
-0.0.0.0	web.np.playstation.com
